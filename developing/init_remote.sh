@@ -18,4 +18,6 @@ git clone git@github.com:gikoluo/django_oauth2.git oauth2
 
 git clone git@github.com:gikoluo/yapi-docker.git yapi
 
+git clone git@github.com:gikoluo/cas-webapp-docker.git vcas
 
+git clone git@github.com:gikoluo/flower-noty.git noty
